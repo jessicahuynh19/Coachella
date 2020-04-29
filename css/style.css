@@ -14,3 +14,22 @@
 
 }
 
+.primary-color {
+    color: var(--primary-color);
+}
+
+.bg-primary-color{
+    background-color: var(--primary-color)!important;
+}
+
+.text-color{
+    color:var(--text-color);
+}
+
+.font-lato{
+    font-family: var(--lato);
+}
+
+.font-bebas-neue{
+    font-family: var(--);
+}
