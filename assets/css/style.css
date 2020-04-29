@@ -1,0 +1,14 @@
+body {
+	background: url();
+	background-position: 0px 400px;
+	background-size: 100% 350%;
+}
+
+
+.jumbotron {
+    background: url(../images/banner.png);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    
+}
