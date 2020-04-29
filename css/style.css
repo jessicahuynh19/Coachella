@@ -1,0 +1,16 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Lato:ital,wght@1,900&family=Luckiest+Guy&family=Permanent+Marker&display=swap');
+
+:root {
+    --light-gray: #2b3032a1;
+    --primary-color: #45ccb8;
+    --border: #2b303218;
+    --text-color: #ff686b;
+    --lato:"lato", sans-serif;
+    --bebas-neue:"bebas-neue", cursive;
+    --bangers:"bangers", cursive;
+    --permanent-marker:"permanent-marker", cursive;
+    --luckiest-guy:"luckiest-guy", cursive; 
+
+}
+
